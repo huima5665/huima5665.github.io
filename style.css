@@ -1,5 +1,32 @@
 body{
     font-family: "Newsreader", serif;
-    width: 600px;
+    width: 900px;
     margin: 80px auto;
+    background-image: url(images/0317062D-F1E6-44F3-96C0-F49C5933FBDD\ 2.JPG);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    /* background-attachment: fixed; */
 }
+
+blockquote {
+    font-size:23px;
+    line-height:1.5em;
+}
+
+a:link{color:aquamarine}
+a:visited{color:blanchedalmond}
+a:hover, a:focus{color:aqua}
+a:active {color:aliceblue}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}
+
+figure {
+    display: block;
+    height: 90vh;
+}
+
